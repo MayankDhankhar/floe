@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## How to run
 
-Step - 1 : Open terminal in the root of your project i.e., rickAndMorty folder.
+Step - 1 : Open terminal in the root of your project.
 
 Step - 2 : Run command :
            npm install 
